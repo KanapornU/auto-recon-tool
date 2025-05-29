@@ -38,4 +38,19 @@ auto-recon-tool/
 
 # Requirements
 
-# Python modules (install via pip)
+Python Modules (install via pip) 
+dnspython       # For DNS resolution in recon.py
+
+External Tools (install or download manually)
+Gobuster (Windows binary): https://github.com/OJ/gobuster/releases
+Whois (Windows binary): https://docs.microsoft.com/en-us/sysinternals/downloads/whois
+
+Wordlists (download manually)
+Recommended:
+- directory-list-2.3-medium.txt
+- directory-list-2.3-small.txt
+- raft-small-words.txt
+- common.txt
+Download from: https://github.com/danielmiessler/SecLists
+Place all wordlists into a folder named `wordlists/`
+
