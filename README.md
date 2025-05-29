@@ -16,13 +16,13 @@ Auto recon tool using Python – Runs Nmap, Gobuster, Whois, and Dig – Output 
 # Folder Structure
 
 auto-recon-tool/
-├── recon.py
-├── requirements.txt     # This file lists Python dependencies. External tools (e.g., gobuster, whois) must be installed manually.
-├── wordlists/           # Place downloaded wordlists from requirements.txt in here
-├── results/             # Auto-generated scan results
-├── .gitignore
-├── LICENSE
-└── README.md
+- recon.py
+- wordlists/           # Place downloaded wordlists from requirements.txt in here
+- results/             # Auto-generated scan results
+- requirements.txt     # This file lists Python dependencies. External tools (e.g., gobuster, whois) must be installed manually.
+- .gitignore
+- LICENSE
+- README.md
 
 # Features
 
