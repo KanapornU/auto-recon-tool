@@ -54,3 +54,24 @@ Recommended:
 Download from: https://github.com/danielmiessler/SecLists
 Place all wordlists into a folder named `wordlists/`
 
+---
+
+# Possible Improvements
+
+- Add more recon tools such as RustScan, Masscan, or Subfinder for wider coverage
+- Export results to HTML or JSON format for better report sharing
+- Add looped or scheduled scans for continuous monitoring of a target
+- Integrate public APIs like Shodan, Censys, or VirusTotal for enriched intelligence
+- Enable threading or multiprocessing to speed up large-scale scans
+- Develop a lightweight GUI with Tkinter or web UI for user-friendly operation
+
+---
+
+# Use Cases
+
+- Learning scripting + tool integration for beginners in cybersecurity
+- Practicing reconnaissance in CTFs or lab environments
+- Serving as a building block for a larger red-team or automation toolkit
+- Teaching automation workflows in cybersecurity or ethical hacking courses
+- Quick recon on internal test environments without relying on manual steps
+
