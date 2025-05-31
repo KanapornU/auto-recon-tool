@@ -24,6 +24,8 @@ auto-recon-tool/
 - LICENSE
 - README.md
 
+---
+
 # Features
 
 - Automated scanning workflow
